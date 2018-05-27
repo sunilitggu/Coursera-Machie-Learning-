@@ -1,1 +1,1 @@
-echo # Coursera-Machie-Learning-
+echo # Coursera-Machine-Learning-
